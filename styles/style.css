@@ -9,7 +9,7 @@
   justify-content: center;
   align-items: center;
   gap: 10px;
-  padding: 92px 24px 96px;
+  padding: 90px 24px 92px;
 }
 
 .header_links-list {
@@ -41,18 +41,17 @@
 }
 
 .header-logo {
-  display: block;
   display: flex;
   justify-content: center;
   align-items: center;
-  width: 148px;
-  height: 105px;
+  width: 137px;
+  height: 110px;
 }
 
 .header-address {
   display: block;
   justify-self: end;
-  padding-top: 5px;
+  padding-top: 4px;
   padding-right: 28px;
   font-style: normal;
   text-underline-position: under;
@@ -84,7 +83,6 @@
   color: rgb(255, 255, 255);
   font-family: "Raleway", sans-serif;
   font-weight: bold;
-  font-size: 100px;
   font-size: 100px;
   line-height: 1.15;
   letter-spacing: 30px;
@@ -254,7 +252,7 @@ h1 {
 
 .lots__look-more-link {
   display: block;
-  padding-top: 28px;
+  padding-top: 30px;
   padding-left: 42px;
   color: black;
   font-family: "Raleway";
@@ -317,7 +315,6 @@ h1 {
 
 .footer {
   display: flex;
-  justify-content: row;
   justify-content: space-between;
   box-sizing: border-box;
   padding: 180px 48px 90px;
@@ -357,7 +354,7 @@ h1 {
   list-style: none;
 }
 
-.footer__social-icon {
+.footer_social-list-item {
   width: 48px;
   height: 48px;
 }
